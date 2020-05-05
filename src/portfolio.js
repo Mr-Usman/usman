@@ -7,20 +7,19 @@ import emoji from "react-easy-emoji";
 
 const greeting = {
   /* Your Summary And Greeting Section */
-  title: "Hi all I'm Saad",
+  title: "Hi all I'm Usman",
   subTitle: emoji("A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks"),
-  resumeLink: "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing"
+  resumeLink: "https://google.com/"
 };
 
 // Your Social Media Link
 
 const socialMediaLinks = {
 
-  github: "https://github.com/saadpasta",
-  linkedin: "https://www.linkedin.com/in/saadpasta/",
-  gmail: "saadpasta70@gmail.com",
-  gitlab: "https://gitlab.com/saadpasta",
-  facebook: "https://www.facebook.com/saad.pasta7"
+  github: "https://github.com/usmanrehmat556",
+  linkedin: "https://www.linkedin.com/in/usman-rehmat-a1b11a157/",
+  gmail: "usmanrehmat15@gmail.com",
+  facebook: "https://www.facebook.com/osman.rehmat.5"
 };
 
 // Your Skills Section
@@ -125,16 +124,16 @@ const openSource = {
 // Some Big Projects You have worked with your company
 
 const bigProjects = {
-  title: "Big Projects",
+  title: "Project",
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELP TO CREATE THEIR TECH",
   projects: [
     {
-      image: "https://drive.google.com/uc?id=1exWn9T6j8TsfDDHJnS3VR66eP6RiGAfY",
-      link: "http://saayahealth.com/"
+      image: "https://drive.google.com/uc?id=1yCbZuevMvY7Q0voKHtPnjWn-4Xwxsa09",
+      link: "https://justo.mx/home/"
     },
     {
-      image: "https://drive.google.com/uc?id=1MXoXcQRK-pH8J82wyjCW4SJk5AxJe7tf",
-      link: "http://nextu.se/"
+      image: "https://drive.google.com/uc?id=1nJ4w4PHfGuWyihAA0RWrtGqlPyRB7T76",
+      link: "https://seclot.com/"
     }
   ]
 };
@@ -229,8 +228,8 @@ const podcastSection = {
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle: "Discuss a project or just want to say hi my inbox is open for all",
-  number: "+92-3243454077",
-  email_address: "saadpasta70@gmail.com"
+  number: "+92-3014487347",
+  email_address: "usmanrehmat15@gmail.com"
 };
 
 //Twitter Section
